@@ -1,11 +1,10 @@
 # Brazilian Medical Appointments Analysis
 
-Dataset investigation over 100k medical appointments in Brazil.
+This analysis collects information from a dataset with 100k medical appointments in Brazil and is focused on answering the questions stated below. 
 
-This analysis collects information from a dataset with 100k medical appointments in Brazil and is focused on the questions stated below. 
+Questions to be answered on this verification
 
 <ol>
-    <li>Questions to be answered on this verification</li>
     <li>Which gender mostly makes appointments?</li>
     <li>Are the number of appointments increasing over time?</li>
     <li>Which range of age mostly make appointments?</li>
